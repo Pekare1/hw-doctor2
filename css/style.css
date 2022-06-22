@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+.backgroundblue{
+    height: 400px;
+    width: 1000px;
+    margin: 100px;
+    background-color: #0166ff;
+    position: absolute;
+    border-radius: 10px;
+
+
+}
+.photo{
+    position: absolute;
+    left: 600px;
+    bottom: -4px;
+
+}
+.maintext{
+position: absolute;
+left: 150px;
+top: 100px;
+color: aliceblue;
+font-size: 35px;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;}
+
+.maintext2{
+    position: absolute;
+    left: 150px;
+    top: 135px;
+    color: aliceblue;
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Staatliches', cursive;}
+
+
+.secondtext{
+    position: absolute;
+    left: 150px;
+    top: 190px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Staatliches', cursive;
+}
+.secondtext2{
+    position: absolute;
+    left: 150px;
+    top: 210px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Staatliches', cursive;
+  
+}
+
+.divButton{
+    position: absolute;
+    left: 150px;
+    top: 250px;
+    background-color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 10px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+cursor: default; 
+
+}
+.divButton:hover{ 
+   
+    background-color: #50f305; 
+   
+  } 
+  .divButton:active{ 
+    background-color: rgb(209, 0, 251); 
+  }
+
+    
+
+
+  
